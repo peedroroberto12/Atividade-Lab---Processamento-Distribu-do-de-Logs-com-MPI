@@ -29,7 +29,6 @@ def gerar_logs(qtd):
     # RANDOMIZE OS IPS, ENDPOINTS, METODOS E STATUS
     # Vamos pegar um aleatorio da lista, rodar no loop e montar
 
-    logs = []
     for _ in range(qtd):
         ip = random.choice(ips)
         metodo = random.choice(metodos)
