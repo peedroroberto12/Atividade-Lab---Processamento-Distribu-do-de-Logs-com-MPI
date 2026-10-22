@@ -130,7 +130,7 @@ Este projeto demonstra uma aplicação prática de processamento distribuído us
 
 ## Autor
 
-- Seu Nome
+Pedro Roberto Fernandes Noronha
 
 ## Licença
 
